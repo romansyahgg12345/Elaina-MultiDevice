@@ -67,7 +67,7 @@ global.nameown = 'Yuda' // Nama Owner
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
+  ['62882334532880'],
   ['62895416210179', '❦ Yud? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
